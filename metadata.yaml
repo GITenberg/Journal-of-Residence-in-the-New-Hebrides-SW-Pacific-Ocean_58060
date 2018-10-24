@@ -1,0 +1,23 @@
+_repo: Journal-of-Residence-in-the-New-Hebrides-SW-Pacific-Ocean_58060
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bice, C.
+    gutenberg_agent_id: '49750'
+    url: http://www.gutenberg.org/2009/agents/49750
+  - agent_name: Brittain, A.
+    gutenberg_agent_id: '49751'
+    url: http://www.gutenberg.org/2009/agents/49751
+description: ''
+gutenberg_issued: '2018-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Journal of Residence in the New Hebrides, S.W. Pacific Ocean
+url: http://www.gutenberg.org/ebooks/58060
